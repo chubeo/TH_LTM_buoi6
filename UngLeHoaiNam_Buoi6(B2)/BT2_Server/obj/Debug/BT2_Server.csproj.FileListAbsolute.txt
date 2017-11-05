@@ -1,0 +1,9 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\bin\Debug\BT2_Server.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\bin\Debug\BT2_Server.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\bin\Debug\BT2_Server.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\obj\Debug\BT2_Server.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\obj\Debug\BT2_Server.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\obj\Debug\BT2_Server.pdb
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\bin\Debug\BT2_Server.exe.config
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\obj\Debug\BT2_Server.exe
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Server\obj\Debug\BT2_Server.pdb
